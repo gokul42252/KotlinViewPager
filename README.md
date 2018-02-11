@@ -136,6 +136,4 @@ import android.content.Context</span>
 <span style="color: #ff6600;">        viewPager.adapter = CustomPagerAdapter(this)</span>
 <span style="color: #ff6600;">    }</span>
 <span style="color: #ff6600;">}</span></pre>
-Download full source code from <a href="https://github.com/gokul42252/KotlinViePager">Github</a>
 
-Now its time to run Happy Coding.:).
