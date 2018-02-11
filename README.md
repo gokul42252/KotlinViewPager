@@ -1,4 +1,4 @@
-# KotlinViePager
+# KotlinViewPager
 
 http://thoughtnerds.com/viewpager-using-kotlin-android-tutorial/
 
